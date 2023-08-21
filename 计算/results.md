@@ -27,3 +27,33 @@ Average accuracy 0.970 - 1_digit_subtraction
 Average accuracy 0.940 - 1_digit_multiplication
 
 Average accuracy 1.000 - 1_digit_division
+
+Average accuracy 0.604 - 2_digit_multiplication
+
+Average accuracy 0.810 - 2_digit_division
+
+Average accuracy 0.534 - 3_digit_addition
+
+Average accuracy 0.846 - 3_digit_subtraction
+
+Average accuracy 0.328 - 3_digit_multiplication
+
+Average accuracy 0.560 - 3_digit_division
+
+Average accuracy 0.502 - 4_digit_addition
+
+Average accuracy 0.818 - 4_digit_subtraction
+
+Average accuracy 0.172 - 4_digit_multiplication
+
+Average accuracy 0.480 - 4_digit_division
+
+Average accuracy 0.492 - 5_digit_addition
+
+Average accuracy 0.770 - 5_digit_subtraction
+
+Average accuracy 0.122 - 5_digit_multiplication
+
+Average accuracy 0.394 - 5_digit_division
+
+total average accuracy = 0.558
