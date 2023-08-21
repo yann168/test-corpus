@@ -22,8 +22,8 @@ arithmetic problems:
 
 Average accuracy 0.980 - 1_digit_addition
 
-Average accuracy 0.980 - 1_digit_subtraction
+Average accuracy 0.970 - 1_digit_subtraction
 
-Average accuracy 0.950 - 1_digit_multiplication
+Average accuracy 0.940 - 1_digit_multiplication
 
 Average accuracy 1.000 - 1_digit_division
