@@ -17,3 +17,13 @@ Average accuracy 0.337 - mathematics
 Average accuracy 1.000 - simple_arithmetic_json_multiple_choice
 
 total average accuracy = 0.389
+
+arithmetic problems:
+
+Average accuracy 0.980 - 1_digit_addition
+
+Average accuracy 0.980 - 1_digit_subtraction
+
+Average accuracy 0.950 - 1_digit_multiplication
+
+Average accuracy 1.000 - 1_digit_division
